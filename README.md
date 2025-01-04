@@ -42,13 +42,8 @@ Certains champs n'étaient pas correctement enregistrés dans la base de donnée
 
 Nous continuons à investiguer ces problèmes pour assurer l'insertion fluide et précise des instances.
 
-5. Interface et Style
 
-Nous avons également travaillé sur l’interface utilisateur et le style visuel de l’application. Malheureusement, le résultat obtenu ne correspond pas encore à nos attentes. Les points à améliorer incluent :
 
-L’amélioration de la mise en page.
-
-La gestion des éléments interactifs (boutons, formulaires, champs de saisie) pour rendre l’interface plus intuitive et ergonomique.
 
 Difficultés et Prochaines Étapes
 
@@ -56,7 +51,7 @@ Difficultés
 
 Problèmes d'insertion avec BufferedReader : Mieux comprendre comment capturer et formater les saisies des utilisateurs pour une insertion correcte dans la base de données.
 
-Interface utilisateur : Retravailler le style et la mise en page de l’interface.
+
 
 Prochaines étapes
 
@@ -68,4 +63,4 @@ Tester l’application de manière extensive pour garantir la stabilité et la f
 
 Conclusion
 
-Malgré les difficultés rencontrées, des progrès significatifs ont été réalisés dans la connexion à la base de données, la création de la table Produit, et la gestion des opérations de base. Des efforts supplémentaires sont prévus pour améliorer l’insertion des données et l’interface utilisateur
+Malgré les difficultés rencontrées, des progrès significatifs ont été réalisés dans la connexion à la base de données, la création de la table Produit, et la gestion des opérations de base. Des efforts supplémentaires sont prévus pour améliorer l’insertion des données 
