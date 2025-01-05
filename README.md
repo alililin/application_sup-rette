@@ -9,7 +9,7 @@ Introduction
 Ce projet vise à concevoir une application permettant de gérer les opérations courantes d’une supérette. L’application prend en charge la gestion des produits, des achats, des ventes, des fournisseurs, des contrats et des contacts. Toutes ces informations sont stockées dans une base de données relationnelle et permettent une analyse simplifiée.
 
 Progrès Réalisés
-Connexion à la Base de Données
+Connexion à la Base de Données:
 Après avoir rencontré et résolu des difficultés liées au mot de passe, nous avons pu établir une connexion stable avec la base de données pédagogique utilisée pour le projet.
 Définition de la Classe Produit
 La structure de la classe Produit a été définie avec les attributs essentiels. Ces derniers incluent des champs tels que numUnique, idAchat, nom, description, prixVente et catégorie. Chacun a été spécifié avec son type de données et sa signification dans le contexte de l’application.
